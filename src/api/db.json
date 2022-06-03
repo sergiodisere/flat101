@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Treasures Bronze Emperador",
+      "productType": "Bathroom",
+      "price": 32,
+      "image": "https://i.ytimg.com/vi/8MqAuxiC_OI/maxresdefault.jpg",
+      "description": "Treasures Bronze Emperador - Description"
+    },
+    {
+      "id": 2,
+      "name": "Baño",
+      "productType": "Bathroom",
+      "price": 5.5,
+      "image": "https://i.ytimg.com/vi/8MqAuxiC_OI/maxresdefault.jpg",
+      "description": "Treasures Bronze Emperador - Description"
+    },
+    {
+      "id": 3,
+      "name": "Mueble Lavadero",
+      "productType": "Bathroom",
+      "price": 5.3,
+      "image": "https://i.ytimg.com/vi/8MqAuxiC_OI/maxresdefault.jpg",
+      "description": "Treasures Bronze Emperador - Description"
+    },
+    {
+      "id": 4,
+      "name": "Muelbe Lujo Julio Cesar",
+      "productType": "Bathroom",
+      "price": 35,
+      "image": "https://i.ytimg.com/vi/8MqAuxiC_OI/maxresdefault.jpg",
+      "description": "Treasures Bronze Emperador - Description"
+    },
+    {
+      "id": 5,
+      "name": "Toallero Baño",
+      "productType": "Bathroom",
+      "price": 32,
+      "image": "https://i.ytimg.com/vi/8MqAuxiC_OI/maxresdefault.jpg",
+      "description": "Treasures Bronze Emperador - Description"
+    },
+    {
+      "id": 6,
+      "name": "Treasures Bronze Emperador",
+      "productType": "Bathroom",
+      "price": 123,
+      "image": "https://i.ytimg.com/vi/8MqAuxiC_OI/maxresdefault.jpg",
+      "description": "Treasures Bronze Emperador - Description"
+    },
+    {
+      "id": 7,
+      "name": "Emperador",
+      "productType": "Bathroom",
+      "price": 1,
+      "image": "https://i.ytimg.com/vi/8MqAuxiC_OI/maxresdefault.jpg",
+      "description": "Treasures Bronze Emperador - Description"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+.home {
+    height: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.options {
+    align-items: center;
+    margin: 50% auto 0 auto;
+    padding: 10px 24px; 
+    width: 50%;
+    display: block; 
+
+    .btnHome{
+        min-width: 110px;
+        margin-bottom: 25px;
+    }
+}
+
+@media(max-width:325px){
+    .options{
+        padding: 0;
+    }
+}

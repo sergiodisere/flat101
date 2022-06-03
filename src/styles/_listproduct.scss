@@ -1,0 +1,45 @@
+.listProducts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardItem {
+    width: 24%;
+    height: 270px;
+    margin: 15px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selector {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+}
+
+@media (max-width: 1000px) {
+    .cardItem {
+        width: 46%;
+    }
+    .footer{
+        position: relative
+    }
+
+}
+
+@media (max-width: 500px) {
+    .text-title {
+        font-size: 1rem !important;
+    }
+
+    .text-price {
+        font-size: 0.8rem !important;
+    }
+}
